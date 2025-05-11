@@ -12,7 +12,7 @@ To corroborate all that I have said here would be several of the games that I ha
 ### Skills
 -Knowledge and experience in Unreal, C++.
 
--Efficient work: I have been in several gameJam where, based on an organized work, objectives were achieved.
+-Efficient work: I have been in several gameJam where, based on an organized work, objectives were achieved. In addition to being able to work with new people to move the project forward.
 
 -Specialization in AI, scenario interaction and UI.
 
