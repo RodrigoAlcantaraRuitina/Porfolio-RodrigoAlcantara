@@ -7,7 +7,7 @@ To corroborate all that I have said here would be several of the games that I ha
 ## Comunicación
 
 - 💬 Number:+34 672 271 273 
-- 📧 E-Mail: [giovanni@delucchi.net](mailto:giovanni@delucchi.net)
+- 📧 E-Mail: [rodroalcantara@gmail.com](rodroalcantara@gmail.com)
 
 ### Games participated in
 
