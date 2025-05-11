@@ -55,6 +55,14 @@ Shooting room
 
 In the Git folders there are the scenes 
 
+##### Languages spoken
+
+-English
+
+-Spanish (mother tongue)
+
+-Bulgarian
+
 
 
 
