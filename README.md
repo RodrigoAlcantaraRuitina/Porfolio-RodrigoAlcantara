@@ -10,7 +10,13 @@ To corroborate all that I have said here would be several of the games that I ha
 - 📧 E-Mail:rodroalcantara@gmail.com
 
 ### Skills
+-Knowledge and experience in Unreal, C++.
 
+-Efficient work: I have been in several gameJam where, based on an organized work, objectives were achieved.
+
+-Specialization in AI, scenario interaction and UI.
+
+-Background in strategy games: I am no stranger to this world and I am constantly updated with one of the major ones which would be warhamer 40k.
 
 #### Games participated in
 Whale Project
@@ -31,7 +37,9 @@ Code:C+
 
 Styx Shard of darkness
 
-Rol:-Artificial intelligence (programmed support)
+Rol:
+-Artificial intelligence (programmed support)
+
 -Detection Mechanics(support programmer)
 
 Code type:C++
@@ -41,6 +49,11 @@ Code type:C++
 
 #### Unreal Mini Projects
 
+Turn-based strategy game
+
+Shooting room
+
+In the Git folders there are the scenes 
 
 
 
