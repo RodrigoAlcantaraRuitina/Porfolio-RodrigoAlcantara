@@ -9,10 +9,15 @@ To corroborate all that I have said here would be several of the games that I ha
 - 💬 Number:+34 672 271 273 
 - 📧 E-Mail:rodroalcantara@gmail.com
 
-### Games participated in
+### Skills
+
+
+#### Games participated in
 Whale Project
 
 Rol:Designer
+
+Code type:C+
 
 ![Whale Proyect](https://img.itch.zone/aW1nLzE1NjA4OTYyLmpwZw==/315x250%23c/qt%2BDtV.jpg)
 
@@ -20,12 +25,16 @@ Licenciado Señor Capibara
 
 Rol:programador Principal
 
+Code:C+
+
 ![Texto alternativo](https://ggjv4.s3.us-west-1.amazonaws.com/files/styles/sidebar_full/s3/games/2025/818587/featured/Sprite-0001.gif?VersionId=KsOZfUFPEY68iJUApFvn7eXHLBpBMFoO&itok=Vfqyr0vY)
 
 Styx Shard of darkness
 
 Rol:-Artificial intelligence (programmed support)
 -Detection Mechanics(support programmer)
+
+Code type:C++
 
 
 ![Texto alternativo](https://upload.wikimedia.org/wikipedia/en/4/4b/Styx_Shards_of_Darkness_Cover_Art.jpg)
